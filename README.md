@@ -1,4 +1,16 @@
-### Hi there 👋
+### Olá, bem-vindo(a)! 👋🏼
+
+Me chamo **Júlio César Alves**, e estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.
+
+Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas...
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Badge.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://www.w3.org/html/logo/downloads/HTML5_Logo.svg">
+  <img width="48px" height="48px" alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://www.w3.org/html/logo/img/mark-word-icon.png">
+</picture>
+
+### Hi there, welcome! 👋🏼
 
 <!--
 **JulioCesar-A/JulioCesar-A** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
