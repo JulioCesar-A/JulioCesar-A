@@ -62,7 +62,35 @@
 <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study2.gif" width="" height="">
 <hr>
 
-<p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente CSS, Javascript e em iniciar meus estudos no framework React, e também me aprofundar no desenvolvimento back-end com a linguagem Python e Java</p> 
+<p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, entre outros, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente <b>CSS</b>, <b>Javascript</b> e em iniciar meus estudos no framework <b>React</b>, e também me aprofundar no desenvolvimento back-end com a linguagem <b>Python</b> e <b>Java</b></p>
+<hr>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
+  <img width="48px" height="48px" alt="Símbolo CSS." src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+  <img width="48px" height="48px" alt="Símbolo JavaScript." src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
+  <img width="48px" height="48px" alt="Símbolo Python." src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+  <img width="48px" height="48px" alt="Símbolo Java." src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+</picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+  <img width="48px" height="48px" alt="Símbolo Raect" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
+</picture>
+<hr>
 </details>
 
 <details>
