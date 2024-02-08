@@ -38,21 +38,21 @@ Atualmente estou me aprofundando em HTML5, CSS3 e Javascript, e iniciando no fra
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img width="48px" height="48px" alt="Símbolo Python." src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
+  <img width="48px" height="48px" alt="Símbolo Python." src="https://upload.wikimedia.org/wikipedia/commons/archive/c/c3/20220821155028%21Python-logo-notext.svg">
 </picture>
-
+<a href="https://www.mysql.com">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+    <source media="(prefers-color-scheme: light)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+    <img width="48px" height="48px" alt="Símbolo MySQL." src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+  </picture>
+</a>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img width="48px" height="48px" alt="Símbolo MySQL." src="">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="">
-  <source media="(prefers-color-scheme: light)" srcset="">
-  <img width="48px" height="48px" alt="Símbolo Java." src="">
+  <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
+  <img width="48px" height="48px" alt="Símbolo Java." src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 </picture>
 
 
