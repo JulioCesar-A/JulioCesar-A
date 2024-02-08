@@ -54,7 +54,13 @@
 
 <details>
   <summary><h3>📚Estudos📚</h3></summary>
+
+<img src="" width="" height="">
+
 <p>O hábito de leitura e de estudos estão enraizados no meu dia a dia, sou completamente fascinado em adquirir novos conhecimentos e em explorar as infinitas narrativas dos livros, não sou um devorador de livros, eu prefiro fazer uma leitura lenta porém constante, pois dessa forma, eu absorvo e interpreto melhor as informações apresentadas...</p>
+
+<img src="" width="" height="">
+
 <p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente CSS, Javascript e em iniciar meus estudos no framework React, e também me aprofundar no desenvolvimento back-end com a linguagem Python e Java</p> 
 </details>
 
