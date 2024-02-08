@@ -4,7 +4,9 @@
 <p>Me chamo <strong>Júlio César Alves</strong>, e atualmente estou cursando <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> no <strong>Centro Universitário Maurício de Nassau</strong>.</p>
 <p>Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas.</p>
 
-<b>Habilidades</b>
+
+<b>Principais Ferramentas</b>
+<hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
@@ -48,7 +50,7 @@
   <img width="48px" height="48px" alt="Símbolo Java." src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 </picture>
 
-
+<hr>
 
 <details>
   <summary><h3>📚Estudos📚</h3></summary>
