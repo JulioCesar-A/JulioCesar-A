@@ -1,12 +1,10 @@
 <details>
-  <summary><h1>Português (PT-BR)</h1></summary>
+  <summary><h1>🇧🇷Português (PT-BR)🇧🇷</h1></summary>
 <h2>Olá, bem-vindo(a)! 👋🏼</h2>
 <p>Me chamo <b>Júlio César Alves</b>, e atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.</p>
 <p>Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas.</p>
-<p>Atualmente estou me aprofundando em HTML5, CSS3 e Javascript, e iniciando no framework React no ramo front-end, e me apronfundando na linguagem Python e iniciando Java no ramo back-end.</p>
 
-<details>
-<summary> <b>Habilidades</b> </summary>
+<b>Habilidades</b>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
@@ -50,5 +48,15 @@
   <img width="48px" height="48px" alt="Símbolo Java." src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg">
 </picture>
 
+
+
+<details>
+  <summary><h3>📚Estudos📚</h3></summary>
+<p>O hábito de leitura e de estudos estão enraizados no meu dia a dia, sou completamente fascinado em adquirir novos conhecimentos e em explorar as infinitas narrativas dos livros, não sou um devorador de livros, eu prefiro fazer uma leitura lenta porém constante, pois dessa forma, eu absorvo e interpreto melhor as informações apresentadas...</p>
+<p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente CSS, Javascript e em iniciar meus estudos no framework React, e também me aprofundar no desenvolvimento back-end com a linguagem Python e Java</p> 
+</details>
+
+<details>
+  <summary><h3>Carreira Profissional</h3></summary>
 </details>
 </details>
