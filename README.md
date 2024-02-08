@@ -1,7 +1,7 @@
 <details>
-  <summary><h1>🇧🇷Português (PT-BR)🇧🇷</h1></summary>
+  <summary><h1>🇧🇷Sobre Mim (PT-BR)🇧🇷</h1></summary>
 <h2>Olá, bem-vindo(a)! 👋🏼</h2>
-<p>Me chamo <b>Júlio César Alves</b>, e atualmente estou cursando Tecnologia em Análise e Desenvolvimento de Sistemas no Centro Universitário Maurício de Nassau.</p>
+<p>Me chamo <strong>Júlio César Alves</strong>, e atualmente estou cursando <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> no <strong>Centro Universitário Maurício de Nassau</strong>.</p>
 <p>Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas.</p>
 
 <b>Habilidades</b>
