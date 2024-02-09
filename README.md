@@ -95,6 +95,10 @@
 <details>
   <summary><h3>👨🏼‍💻 Carreira Profissional 👨🏼‍💻</h3></summary>
   <hr>
-  <p>Apesar de não ser uma experiência profissional reconhecida, atuei como <strong>monitor de matemática</strong> durante meu último ano do ensino médio (Jan/2022 - Dez/2023).</p>
+  <p>Apesar de não ser uma experiência profissional reconhecida, atuei como <strong>monitor de matemática</strong> durante meu último ano do ensino médio (Jan/2022 - Dez/2023), período que entendi em primeira mão as dificuldades relacionadas à função de ensinar e ao aprendizado dos alunos.</p>
+  <hr>
+  <img src="" wi
+  <hr>
+  <p></p>
 </details>
 </details>
