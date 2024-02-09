@@ -90,10 +90,11 @@
   <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
   <img width="48px" height="48px" alt="Símbolo Raect" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg">
 </picture>
-<hr>
 </details>
-
+<hr>
 <details>
-  <summary><h3>Carreira Profissional</h3></summary>
+  <summary><h3>👨🏼‍💻 Carreira Profissional 👨🏼‍💻</h3></summary>
+  <hr>
+  <p>Apesar de não ser uma experiência profissional reconhecida, atuei como <strong>monitor de matemática</strong> durante meu último ano do ensino médio (Jan/2022 - Dez/2023).</p>
 </details>
 </details>
