@@ -59,7 +59,8 @@
 <p>O hábito de leitura e de estudos estão enraizados no meu dia a dia, sou completamente fascinado em adquirir novos conhecimentos e em explorar as infinitas narrativas dos livros, não sou um devorador de livros, eu prefiro fazer uma leitura lenta porém constante, pois dessa forma, eu absorvo e interpreto melhor as informações apresentadas...</p>
 
 <hr>
-<img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study2.gif" width="" height="">
+<img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study1.png" width="" height="">
+<img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study2.png" width="" height="">
 <hr>
 
 <p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, entre outros, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente <b>CSS</b>, <b>Javascript</b> e em iniciar meus estudos no framework <b>React</b>, e também me aprofundar no desenvolvimento back-end com a linguagem <b>Python</b> e <b>Java</b></p>
