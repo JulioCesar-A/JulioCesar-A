@@ -5,7 +5,7 @@
 <p>Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas.</p>
 
 
-<b>Principais Ferramentas</b>
+<b>Ferramentas nas quais tenho conhecimento</b>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
@@ -66,7 +66,7 @@
 </picture>
 <hr>
 
-<p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, entre outros, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente <b>CSS</b>, <b>Javascript</b> e em iniciar meus estudos no framework <b>React</b>, e também me aprofundar no desenvolvimento back-end com a linguagem <b>Python</b> e <b>Java</b>.</p>
+<p>Devido a natureza abrangente da minha formação superior, eu necessito aprender o conteúdo de diversas áreas, como back-end e front-end, banco de dados, ux/ui design, entre outros, mas no momento, venho focado em me aprofundar no desenvolvimento front-end mais especificamente <b>CSS</b>, <b>Javascript</b> e em iniciar meus estudos no framework <b>React</b>, e também me aprofundar no desenvolvimento back-end com a linguagem <b>Java</b>.</p>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
@@ -99,7 +99,7 @@
 <details>
   <summary><h3>👨🏼‍💻 Carreira Profissional 👨🏼‍💻</h3></summary>
   <hr>
-  <p>Apesar de não ser uma experiência profissional reconhecida, atuei como <strong>monitor de matemática</strong> durante meu último ano do ensino médio (Jan/2022 - Dez/2023), período que entendi em primeira mão as dificuldades relacionadas à função de ensinar e ao aprendizado dos alunos.</p>
+  <p>Apesar de não ser uma experiência profissional reconhecida, atuei como <strong>monitor de matemática</strong> durante meu último ano do ensino médio (Jan/2022 - Dez/2022), período que entendi em primeira mão as dificuldades relacionadas à função de ensinar e ao aprendizado dos alunos.</p>
   <hr>
   <img src="" wi
   <hr>
