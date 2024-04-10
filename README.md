@@ -1,8 +1,8 @@
 <details>
-  <summary><h1>Sobre Mim (PT-BR)</h1></summary>
-<h2>Olá, bem-vindo(a)! 👋🏼</h2>
-<p>Me chamo <strong>Júlio César Alves</strong>, e atualmente estou cursando <strong>Tecnologia em Análise e Desenvolvimento de Sistemas</strong> no <strong>Centro Universitário Maurício de Nassau</strong>.</p>
-<p>Eu sou muito interessado na área de tecnologia da informação como um todo, venho buscado adquirir conhecimento em diversos ramos para me encontrar no mercado de trabalho, o que me fez querer traçar meu caminho na área de desenvolvimento, mas sem ignorar os conhecimentos adquiridos em outras áreas.</p>
+  <summary><h1>About me</h1></summary>
+
+  ##  Hi there!!
+  My name is **Júlio César Alves**, i am a brazilian person who loves technology in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**.
 
 
 <b>Ferramentas nas quais tenho conhecimento</b>
