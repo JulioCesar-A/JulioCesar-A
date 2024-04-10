@@ -2,7 +2,8 @@
   <summary><h1>About me</h1></summary>
   
   ## Hello, world! 
-  My name is **Júlio César Alves**, i am a brazilian person who loves technology in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**.
+  My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**.
+  
   
 
 <div id="badges" align="center">
@@ -11,8 +12,10 @@
   </a>
 </div>
 
-<div id="tools" align="center">
+
+
 <hr>
+<div id="tools" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
