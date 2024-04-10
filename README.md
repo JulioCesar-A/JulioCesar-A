@@ -1,11 +1,15 @@
 <details>
   <summary><h1>About me</h1></summary>
-
-  ##  Hi there!!
+  
+  ## Hello, world! 
   My name is **Júlio César Alves**, i am a brazilian person who loves technology in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**.
 
+<div id="badges" align="center">
+  <a href="www.linkedin.com/in/júlio-césar-b339a8260">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="My LinkedIn">
+  </a>
+</div>
 
-<b>Ferramentas nas quais tenho conhecimento</b>
 <hr>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg">
