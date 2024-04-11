@@ -1,7 +1,6 @@
 <details>
   <summary><h1>About me</h1></summary>
   
-  ## Hello, world! 
   <p align="center">My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**. I am eager to learn and discuss about everything,
   </p>
   
