@@ -2,8 +2,8 @@
   <summary><h1>About me</h1></summary>
   
   ## Hello, world! 
-  My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**.
-  
+  <p align="center">My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**. I am eager to learn and discuss about everything,
+  </p>
   
 
 <div id="badges" align="center">
@@ -11,7 +11,6 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="My LinkedIn">
   </a>
 </div>
-
 
 
 <hr>
