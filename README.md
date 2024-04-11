@@ -1,9 +1,16 @@
 <details>
   <summary><h1>About me</h1></summary>
-  
-  <p align="center">My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**. I am eager to learn and discuss about everything,
-  </p>
-  
+  <div align="center">
+    <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/CatHello.jpeg" width="50%" alt="Hello!">
+  </div>
+
+  <div align="center">
+    <p></p>
+    
+  My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**. I am eager to learn and discuss about everything,
+
+
+  </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/juliocesar42ba">
