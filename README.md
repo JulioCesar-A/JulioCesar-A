@@ -26,8 +26,8 @@
 <hr>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" width="50%" srcset="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study(night).png">
-    <source media="(prefers-color-scheme: light)" width="50%" srcset="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study(day).png">
+    <source media="(prefers-color-scheme: dark)" width="75%" srcset="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study(night).png">
+    <source media="(prefers-color-scheme: light)" width="75%" srcset="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study(day).png">
     <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/study(night).png">
   </picture>
 </div>
