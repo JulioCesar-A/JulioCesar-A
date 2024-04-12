@@ -7,14 +7,14 @@
     <p></p>
     
 My name is **Júlio César Alves**, i am a brazilian who loves technology and reading in general, currently i'm studying **system analysis and development** at **Maurício de Nassau University Center**. I am eager to learn and discuss about everything and anything.
+  <hr width="50%">
   </div>
-  <hr>
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/juliocesar42ba">
       <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="My LinkedIn">
     </a>
+    <hr width="50%">
   </div>
-  <hr>
 
   <details>
     <summary align="center"><h2>📚Studies📚</h2></summary>
