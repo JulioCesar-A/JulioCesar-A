@@ -1,7 +1,7 @@
 <details>
   <summary><h1>About me</h1></summary>
   <div align="center">
-    <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/CatHello.jpeg" width="50%" alt="Hello!">
+    <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/CatHello.png" width="50%" alt="Hello!">
   </div>
 
   <div align="center">
@@ -11,14 +11,12 @@
 
 
   </div>
-
+<hr>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/juliocesar42ba">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="My LinkedIn">
   </a>
 </div>
-
-
 <hr>
 <div id="tools" align="center">
   <picture>
