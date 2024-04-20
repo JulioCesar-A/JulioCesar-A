@@ -1,7 +1,7 @@
 <details>
   <summary align="center"><h1>About me</h1></summary>
   <div align="center">
-    <img src="https://github.com/JulioCesar-A/JulioCesar-A/blob/main/CatHello.png" width="50%" alt="Hello!">
+    <img src="assets/CatHello.png" width="50%" alt="Hello!">
   </div>
   <div align="center">
     <p></p>
@@ -64,19 +64,21 @@ Due to the comprehensive nature of my higher education, I need to learn content 
         <img width="48px" height="48px" alt="Símbolo Javascript" src=" ">
       </picture>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
+        <source media="(prefers-color-scheme: dark)" srcset="/assets/">
         <source media="(prefers-color-scheme: light)" srcset=" ">
         <img width="48px" height="48px" alt="Símbolo Python" src=" ">
       </picture>
+      <a href="https://www.mysql.com">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+          <source media="(prefers-color-scheme: light)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+          <img width="88px" height="48px" alt="Símbolo MySQL" src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+        </picture>
+      </a>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
+        <source media="(prefers-color-scheme: dark)" srcset="">
         <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo MySQL" src=" ">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo Java" src=" ">
+        <img width="48px" height="62px" alt="Símbolo Java" src="">
       </picture>
     </details>
 </details>
