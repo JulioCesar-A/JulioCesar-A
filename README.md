@@ -41,32 +41,12 @@ Due to the comprehensive nature of my higher education, I need to learn content 
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset=" ">
         <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo Figma" src=" ">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
         <img width="48px" height="48px" alt="Símbolo VS Code" src=" ">
       </picture>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo HTML" src=" ">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
-        <source media="(prefers-color-scheme: light)" srcset="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg">
-        <img width="48px" height="48px" alt="Símbolo CSS" src="https://upload.wikimedia.org/wikipedia/commons/6/62/CSS3_logo.svg">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset=" ">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo Javascript" src=" ">
-      </picture>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="/assets/">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="48px" alt="Símbolo Python" src=" ">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/python logo.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/python logo.png">
+        <img width="48px" height="48px" alt="Símbolo Python" src="assets/python logo.png">
       </picture>
       <a href="https://www.mysql.com">
         <picture>
@@ -76,9 +56,9 @@ Due to the comprehensive nature of my higher education, I need to learn content 
         </picture>
       </a>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="">
-        <source media="(prefers-color-scheme: light)" srcset=" ">
-        <img width="48px" height="62px" alt="Símbolo Java" src="">
+        <source media="(prefers-color-scheme: dark)" srcset="assets/java logo.png">
+        <source media="(prefers-color-scheme: light)" srcset="assets/java logo.png">
+        <img width="48px" height="62px" alt="Símbolo Java" src="assets/java logo.png">
       </picture>
     </details>
 </details>
