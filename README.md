@@ -1,7 +1,7 @@
 <details>
   <summary align="center"><h1>About me</h1></summary>
   <div align="center">
-    <img src="assets/CatHello.png" width="50%" alt="Hello!">
+    <h2>Hello, world!</h2>
   </div>
   <div align="center">
     <p></p>
@@ -36,24 +36,26 @@ My name is **Júlio César Alves**, i am a brazilian who loves technology and re
 Due to the comprehensive nature of my higher education, I need to learn content from various areas, such as **back-end** and **front-end development**, **databases**, **UX/UI design**, among others...
     </div>
     <hr>
-    <details>
-      <summary><h3>Tools that i have most experience</h3></summary>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/python logo.png">
-        <source media="(prefers-color-scheme: light)" srcset="assets/python logo.png">
-        <img width="48px" height="48px" alt="Símbolo Python" src="assets/python logo.png">
-      </picture>
-      <a href="https://www.mysql.com">
+    <div align="center">
+      <details>
+        <summary><h3>Tools that i have most experience</h3></summary>
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
-          <source media="(prefers-color-scheme: light)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
-          <img width="88px" height="48px" alt="Símbolo MySQL" src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+          <source media="(prefers-color-scheme: dark)" srcset="assets/python logo.png">
+          <source media="(prefers-color-scheme: light)" srcset="assets/python logo.png">
+          <img width="48px" height="48px" alt="Símbolo Python" src="assets/python logo.png">
         </picture>
-      </a>
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/javaLogo.png">
-        <source media="(prefers-color-scheme: light)" srcset="assets/javaLogo.png">
-        <img width="48px" height="92px" alt="Símbolo Java" src="assets/javaLogo.png">
-      </picture>
-    </details>
+        <a href="https://www.mysql.com">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+            <source media="(prefers-color-scheme: light)" srcset="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+            <img width="88px" height="48px" alt="Símbolo MySQL" src="https://www.mysql.com/common/logos/powered-by-mysql-167x86.png">
+          </picture>
+        </a>
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="assets/javaLogo.png">
+          <source media="(prefers-color-scheme: light)" srcset="assets/javaLogo.png">
+          <img width="48px" height="92px" alt="Símbolo Java" src="assets/javaLogo.png">
+        </picture>
+      </details>
+    </div>
 </details>
