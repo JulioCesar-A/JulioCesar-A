@@ -17,6 +17,7 @@ Procurando pessoas para desenvolver projetos juntos
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/java-%23ED8000.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulioCesar-A&layout=compact&langs_count=8&show_icons=true&theme=ocean_dark)](https://github.com/anuraghazra/github-readme-stats)
@@ -30,4 +31,3 @@ Procurando pessoas para desenvolver projetos juntos
 
 ## Estudos Futuros
 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
