@@ -1,6 +1,6 @@
 # Olá, mundo!!
 
-Meu nome é **Júlio César Alves**, estudante de Análise e Desenvolvimento de Sistemas pela UNINASSAU (Centro Universitário Maurício de Nassau), sou apaixonado por tecnologia, música e literatura.
+Me chamo **Júlio César**, sou um desenvolvedor back-end apaixonado por tecnologia, música e literatura.
 
 Possuo afinidade com as partes de back-end e banco de dados, por isso venho me aprofundando meus conhecimentos nessas áreas, estudando, fazendo projetos próprios e contribuindo (quando possível) em projetos de outras pessoas.
 
